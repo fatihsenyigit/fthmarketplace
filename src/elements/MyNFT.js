@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function MyNFT() {
   return (
-    <div>MyNFT</div>
+    <div>
+      <h1>MyNFT</h1>
+    </div>
   )
 }
